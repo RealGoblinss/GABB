@@ -21,7 +21,7 @@ The Uncomplete GABB Source Code, full on Reji's discord Server.
 
 ### Contact
 
-[My Discord Server](https://discord.gg/G6gkGXa5bP) - Community and support
+[My Discord Server](https://discord.gg/2pHszpZx5t) - Community and support
 
 [@BillyTheButcher](https://github.com/BillytheButcher) - some guy
 
